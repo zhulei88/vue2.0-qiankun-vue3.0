@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>这里是vue2.0项目</h1>
+    <h1>这里是vue3.0项目</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br />
       check out the
@@ -115,7 +115,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 .hello {
-  border: 5px solid burlywood;
+  border: 5px solid #42b983;
 }
 h3 {
   margin: 40px 0 0;
